@@ -16,33 +16,119 @@
   "users": [
     {
       "id": 1,
-      "username": "user1@gmail.com",
+      "username": "pvc@gmail.com",
       "password": "123456",
-      "full_name": "User One",
-      "email": "user1@example.com",
+      "full_name": "Phạm Việt Cường",
+      "avatar": "avatar1.jpeg",
+      "email": "pvc@gmail.com",
       "phone_number": "123-456-7890",
       "address": "123 Main St",
-      "role_id": 1
+      "role_id": 2
     },
     {
       "id": 2,
-      "username": "user2@example.com",
-      "password": "password2",
-      "full_name": "User Two",
-      "email": "user2@example.com",
+      "username": "ldc@example.com",
+      "password": "123456",
+      "full_name": "Lê Đức Chinh",
+      "avatar": "tú 4.jpg",
+      "email": "ldc@gmail.com",
       "phone_number": "987-654-3210",
       "address": "456 Elm St",
       "role_id": 2
     },
     {
       "id": 3,
-      "username": "user3@example.com",
-      "password": "password3",
-      "full_name": "User Three",
-      "email": "user3@example.com",
+      "username": "dtv@gmail.com",
+      "password": "123456",
+      "full_name": "Dương Tùng Vương",
+      "avatar": "Vũ Đức Tùng.jpg",
+      "email": "dtv@gmail.com",
       "phone_number": "555-555-5555",
       "address": "789 Oak St",
-      "role_id": 1
+      "role_id": 2
+    },
+    {
+      "id": 4,
+      "username": "thanh@gmail.com",
+      "password": "123456",
+      "full_name": "Thanh Bình",
+      "avatar": "Thanh Bình.jpg",
+      "email": "thanh@gmail.com",
+      "phone_number": "555-555-5555",
+      "address": "789 Oak St",
+      "role_id": 2
+    },
+    {
+      "id": 5,
+      "username": "hyv@example.com",
+      "password": "123456",
+      "full_name": "Hi Vuông",
+      "avatar": "Hy vuông.jpg",
+      "email": "hyv@gmail.com",
+      "phone_number": "555-555-5555",
+      "address": "789 Oak St",
+      "role_id": 2
+    },
+    {
+      "id": 6,
+      "username": "ntlam@gmail.com",
+      "password": "123456",
+      "full_name": "Nguyễn Tùng Lâm",
+      "avatar": "Tùng lâm.jpg",
+      "email": "ntlam@gmail.com",
+      "phone_number": "555-555-5555",
+      "address": "789 Oak St",
+      "role_id": 2
+    }
+  ],
+  "user_info": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "img1": "Rectangle 16-2.png",
+      "img2": "Rectangle 17-2.png",
+      "img3": "Rectangle 18-2.png",
+      "cost": 300000
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "img1": "tú 1.jpg",
+      "img2": "tú 2.jpg",
+      "img3": "tú 3.jpg",
+      "cost": 350000
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "img1": "Vũ Đức Tùng 1.jpg",
+      "img2": "Vũ Đức Tùng 2.jpg",
+      "img3": "Vũ Đức Tùng 3.jpg",
+      "cost": 500000
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "img1": "Thanh Bình 1.jpg",
+      "img2": "Thanh Bình 2.jpg",
+      "img3": "Thanh Bình 3.jpg",
+      "cost": 300000
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "img1": "Hy vuông 1.jpg",
+      "img2": "Hy vuông 2.jpg",
+      "img3": "Hy vuông 3.jpg",
+      "cost": 600000
+    },
+    {
+      "id": 6,
+      "user_id": 6,
+      "img1": "Tùng lâm 1.jpg",
+      "img2": "Tùng lâm 2.jpg",
+      "img3": "Tùng lâm 3.jpg",
+      "cost": 300000
     }
   ]
 }
