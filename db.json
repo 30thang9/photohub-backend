@@ -130,5 +130,18 @@
       "img3": "Tùng lâm 3.jpg",
       "cost": 300000
     }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "order_date": "12/10/2023",
+      "time": "3",
+      "appoi_time": "09:30",
+      "shooting_type": "Chụp chân dung",
+      "partner_id": 1,
+      "cust_email": "huong@gmail.com",
+      "cust_phone": "0123456789",
+      "session_id": ""
+    }
   ]
 }
