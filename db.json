@@ -142,7 +142,26 @@
       "cust_name": "Nguyen The Huong",
       "cust_email": "huong@gmail.com",
       "cust_phone": "0123456789",
+      "status": "cho_duyet",
       "session_id": ""
+    }
+  ],
+  "typeOfPhoto": [
+    {
+      "id": 1,
+      "name": "Chụp chân dung"
+    },
+    {
+      "id": 2,
+      "name": "Chụp sản phẩm"
+    },
+    {
+      "id": 3,
+      "name": "Chụp cảnh"
+    },
+    {
+      "id": 4,
+      "name": "Chụp sự kiện"
     }
   ]
 }
