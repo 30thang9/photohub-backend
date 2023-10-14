@@ -79,6 +79,17 @@
       "phone_number": "555-555-5555",
       "address": "789 Oak St",
       "role_id": 2
+    },
+    {
+      "id": 7,
+      "username": "mhuong@gmail.com",
+      "password": "123456",
+      "full_name": "Nguyen Thi Mai Huong",
+      "avatar": "avatar1.jpeg",
+      "email": "mhuong@gmail.com",
+      "phone_number": "123-456-7890",
+      "address": "123 Main St",
+      "role_id": 1
     }
   ],
   "user_info": [
