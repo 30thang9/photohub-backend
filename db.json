@@ -99,7 +99,13 @@
       "img1": "Rectangle 16-2.png",
       "img2": "Rectangle 17-2.png",
       "img3": "Rectangle 18-2.png",
-      "cost": 300000
+      "cost": 300000,
+      "description": "Tôi đã chụp ảnh cả đời nhưng quyết định chụp ảnh chuyên nghiệp vào năm 2010 và tôi càng yêu thích nó hơn mỗi ngày. Tôi rất là người của mọi người nhưng trớ trêu thay chuyên môn của tôi lại là chụp ảnh sản phẩm, đồ ăn và đồ uống. Chỉ vì tôi chuyên chụp đồ không có nghĩa là tôi thiếu chụp ảnh chân dung, thứ duy nhất tôi không chụp là đám cưới ;)",
+      "prize": "Nhiếp ảnh gia tài năng khu vực miền Bắc năm 2023",
+      "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
+      "language": "Tiếng Việt",
+      "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
+      "portfolio": []
     },
     {
       "id": 2,
@@ -107,7 +113,13 @@
       "img1": "tú 1.jpg",
       "img2": "tú 2.jpg",
       "img3": "tú 3.jpg",
-      "cost": 350000
+      "cost": 350000,
+      "description": "Tôi đã chụp ảnh cả đời nhưng quyết định chụp ảnh chuyên nghiệp vào năm 2010 và tôi càng yêu thích nó hơn mỗi ngày. Tôi rất là người của mọi người nhưng trớ trêu thay chuyên môn của tôi lại là chụp ảnh sản phẩm, đồ ăn và đồ uống. Chỉ vì tôi chuyên chụp đồ không có nghĩa là tôi thiếu chụp ảnh chân dung, thứ duy nhất tôi không chụp là đám cưới ;)",
+      "prize": "Nhiếp ảnh gia tài năng khu vực miền Bắc năm 2023",
+      "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
+      "language": "Tiếng Việt",
+      "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
+      "portfolio": []
     },
     {
       "id": 3,
@@ -115,7 +127,13 @@
       "img1": "Vũ Đức Tùng 1.jpg",
       "img2": "Vũ Đức Tùng 2.jpg",
       "img3": "Vũ Đức Tùng 3.jpg",
-      "cost": 500000
+      "cost": 500000,
+      "description": "Tôi đã chụp ảnh cả đời nhưng quyết định chụp ảnh chuyên nghiệp vào năm 2010 và tôi càng yêu thích nó hơn mỗi ngày. Tôi rất là người của mọi người nhưng trớ trêu thay chuyên môn của tôi lại là chụp ảnh sản phẩm, đồ ăn và đồ uống. Chỉ vì tôi chuyên chụp đồ không có nghĩa là tôi thiếu chụp ảnh chân dung, thứ duy nhất tôi không chụp là đám cưới ;)",
+      "prize": "Nhiếp ảnh gia tài năng khu vực miền Bắc năm 2023",
+      "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
+      "language": "Tiếng Việt",
+      "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
+      "portfolio": []
     },
     {
       "id": 4,
@@ -123,7 +141,13 @@
       "img1": "Thanh Bình 1.jpg",
       "img2": "Thanh Bình 2.jpg",
       "img3": "Thanh Bình 3.jpg",
-      "cost": 300000
+      "cost": 300000,
+      "description": "Tôi đã chụp ảnh cả đời nhưng quyết định chụp ảnh chuyên nghiệp vào năm 2010 và tôi càng yêu thích nó hơn mỗi ngày. Tôi rất là người của mọi người nhưng trớ trêu thay chuyên môn của tôi lại là chụp ảnh sản phẩm, đồ ăn và đồ uống. Chỉ vì tôi chuyên chụp đồ không có nghĩa là tôi thiếu chụp ảnh chân dung, thứ duy nhất tôi không chụp là đám cưới ;)",
+      "prize": "Nhiếp ảnh gia tài năng khu vực miền Bắc năm 2023",
+      "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
+      "language": "Tiếng Việt",
+      "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
+      "portfolio": []
     },
     {
       "id": 5,
@@ -131,7 +155,13 @@
       "img1": "Hy vuông 1.jpg",
       "img2": "Hy vuông 2.jpg",
       "img3": "Hy vuông 3.jpg",
-      "cost": 600000
+      "cost": 600000,
+      "description": "Tôi đã chụp ảnh cả đời nhưng quyết định chụp ảnh chuyên nghiệp vào năm 2010 và tôi càng yêu thích nó hơn mỗi ngày. Tôi rất là người của mọi người nhưng trớ trêu thay chuyên môn của tôi lại là chụp ảnh sản phẩm, đồ ăn và đồ uống. Chỉ vì tôi chuyên chụp đồ không có nghĩa là tôi thiếu chụp ảnh chân dung, thứ duy nhất tôi không chụp là đám cưới ;)",
+      "prize": "Nhiếp ảnh gia tài năng khu vực miền Bắc năm 2023",
+      "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
+      "language": "Tiếng Việt",
+      "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
+      "portfolio": []
     },
     {
       "id": 6,
@@ -139,7 +169,13 @@
       "img1": "Tùng lâm 1.jpg",
       "img2": "Tùng lâm 2.jpg",
       "img3": "Tùng lâm 3.jpg",
-      "cost": 300000
+      "cost": 300000,
+      "description": "Tôi đã chụp ảnh cả đời nhưng quyết định chụp ảnh chuyên nghiệp vào năm 2010 và tôi càng yêu thích nó hơn mỗi ngày. Tôi rất là người của mọi người nhưng trớ trêu thay chuyên môn của tôi lại là chụp ảnh sản phẩm, đồ ăn và đồ uống. Chỉ vì tôi chuyên chụp đồ không có nghĩa là tôi thiếu chụp ảnh chân dung, thứ duy nhất tôi không chụp là đám cưới ;)",
+      "prize": "Nhiếp ảnh gia tài năng khu vực miền Bắc năm 2023",
+      "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
+      "language": "Tiếng Việt",
+      "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
+      "portfolio": []
     }
   ],
   "orders": [
@@ -153,8 +189,9 @@
       "cust_name": "Nguyen The Huong",
       "cust_email": "huong@gmail.com",
       "cust_phone": "0123456789",
+      "address": "Hồ Hoàn Kiếm, Hà Nội",
       "status": "cho_duyet",
-      "session_id": ""
+      "code": "NGH78H"
     }
   ],
   "typeOfPhoto": [
