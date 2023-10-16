@@ -30,7 +30,7 @@
       "username": "ldc@example.com",
       "password": "123456",
       "full_name": "Lê Đức Chinh",
-      "avatar": "tú 4.jpg",
+      "avatar": "tú.jpg",
       "email": "ldc@gmail.com",
       "phone_number": "987-654-3210",
       "address": "456 Elm St",
@@ -105,7 +105,29 @@
       "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
       "language": "Tiếng Việt",
       "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
-      "portfolio": []
+      "portfolio": [],
+      "typeOfPhoto": [
+        {
+          "id": 1,
+          "name": "Chụp chân dung",
+          "cost": 500000
+        },
+        {
+          "id": 2,
+          "name": "Chụp sản phẩm",
+          "cost": 400000
+        },
+        {
+          "id": 3,
+          "name": "Chụp cảnh",
+          "cost": 300000
+        },
+        {
+          "id": 4,
+          "name": "Chụp sự kiện",
+          "cost": 800000
+        }
+      ]
     },
     {
       "id": 2,
@@ -119,7 +141,29 @@
       "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
       "language": "Tiếng Việt",
       "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
-      "portfolio": []
+      "portfolio": [],
+      "typeOfPhoto": [
+        {
+          "id": 1,
+          "name": "Chụp chân dung",
+          "cost": 500000
+        },
+        {
+          "id": 2,
+          "name": "Chụp sản phẩm",
+          "cost": 400000
+        },
+        {
+          "id": 3,
+          "name": "Chụp cảnh",
+          "cost": 300000
+        },
+        {
+          "id": 4,
+          "name": "Chụp sự kiện",
+          "cost": 800000
+        }
+      ]
     },
     {
       "id": 3,
@@ -133,7 +177,29 @@
       "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
       "language": "Tiếng Việt",
       "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
-      "portfolio": []
+      "portfolio": [],
+      "typeOfPhoto": [
+        {
+          "id": 1,
+          "name": "Chụp chân dung",
+          "cost": 500000
+        },
+        {
+          "id": 2,
+          "name": "Chụp sản phẩm",
+          "cost": 400000
+        },
+        {
+          "id": 3,
+          "name": "Chụp cảnh",
+          "cost": 300000
+        },
+        {
+          "id": 4,
+          "name": "Chụp sự kiện",
+          "cost": 800000
+        }
+      ]
     },
     {
       "id": 4,
@@ -161,7 +227,29 @@
       "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
       "language": "Tiếng Việt",
       "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
-      "portfolio": []
+      "portfolio": [],
+      "typeOfPhoto": [
+        {
+          "id": 1,
+          "name": "Chụp chân dung",
+          "cost": 500000
+        },
+        {
+          "id": 2,
+          "name": "Chụp sản phẩm",
+          "cost": 400000
+        },
+        {
+          "id": 3,
+          "name": "Chụp cảnh",
+          "cost": 300000
+        },
+        {
+          "id": 4,
+          "name": "Chụp sự kiện",
+          "cost": 800000
+        }
+      ]
     },
     {
       "id": 6,
@@ -175,7 +263,29 @@
       "interest": "Tôi bị ám ảnh bởi máy ảnh từ khi lên 3 và mẹ tôi đã cho tôi chơi với máy ảnh Polaroid :)",
       "language": "Tiếng Việt",
       "camera": "Sony A7iii, LUMIX G9, Panasonic GH5",
-      "portfolio": []
+      "portfolio": [],
+      "typeOfPhoto": [
+        {
+          "id": 1,
+          "name": "Chụp chân dung",
+          "cost": 500000
+        },
+        {
+          "id": 2,
+          "name": "Chụp sản phẩm",
+          "cost": 400000
+        },
+        {
+          "id": 3,
+          "name": "Chụp cảnh",
+          "cost": 300000
+        },
+        {
+          "id": 4,
+          "name": "Chụp sự kiện",
+          "cost": 800000
+        }
+      ]
     }
   ],
   "orders": [
@@ -197,19 +307,23 @@
   "typeOfPhoto": [
     {
       "id": 1,
-      "name": "Chụp chân dung"
+      "name": "Chụp chân dung",
+      "cost": 500000
     },
     {
       "id": 2,
-      "name": "Chụp sản phẩm"
+      "name": "Chụp sản phẩm",
+      "cost": 400000
     },
     {
       "id": 3,
-      "name": "Chụp cảnh"
+      "name": "Chụp cảnh",
+      "cost": 300000
     },
     {
       "id": 4,
-      "name": "Chụp sự kiện"
+      "name": "Chụp sự kiện",
+      "cost": 800000
     }
   ]
 }
