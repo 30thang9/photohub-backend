@@ -342,15 +342,15 @@
   "orders": [
     {
       "id": 1,
-      "order_date": "12/10/2023",
+      "order_date": "19/10/2023",
       "time": "3",
       "appoi_time": "09:30",
-      "shooting_type": "Chụp chân dung",
+      "shooting_type": "Chụp ảnh lookbook",
       "partner_id": 1,
-      "cust_name": "Nguyen The Huong",
-      "cust_email": "huong@gmail.com",
-      "cust_phone": "0123456789",
-      "address": "Hồ Hoàn Kiếm, Hà Nội",
+      "cust_name": "Bùi Diệp Hương Nhi",
+      "cust_email": "huongnhi25@gmail.com",
+      "cust_phone": "0986089540",
+      "address": "Hà Nội",
       "status": "cho_duyet",
       "code": "NGH78H",
       "price": 1000000
