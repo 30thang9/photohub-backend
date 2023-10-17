@@ -301,7 +301,23 @@
       "cust_phone": "0123456789",
       "address": "Hồ Hoàn Kiếm, Hà Nội",
       "status": "cho_duyet",
-      "code": "NGH78H"
+      "code": "NGH78H",
+      "price": 1000000
+    },
+    {
+      "id": 2,
+      "order_date": "11/10/2023",
+      "time": "2",
+      "appoi_time": "09:30",
+      "shooting_type": "Chụp beauty",
+      "partner_id": 1,
+      "cust_name": "Nguyen Thi Mai Huong",
+      "cust_email": "mhuong@gmail.com",
+      "cust_phone": "0123456789",
+      "address": "Studio Tiểu Thuý_ Số 234 Hoàng Mai - Hà Nội",
+      "status": "cho_duyet",
+      "code": "ATHH67",
+      "price": 1000000
     }
   ],
   "typeOfPhoto": [
