@@ -340,6 +340,11 @@
       "id": 4,
       "name": "Chụp sự kiện",
       "cost": 800000
+    },
+    {
+      "id": 5,
+      "name": "Chụp beauty",
+      "cost": 550000
     }
   ]
 }
